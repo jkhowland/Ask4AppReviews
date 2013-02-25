@@ -122,7 +122,7 @@ extern NSString *const kAsk4AppReviewsReminderRequestDate;
  Users will need to have the same version of your app installed for this many
  days before they will be prompted to rate it.
  */
-#define Ask4AppReviews_DAYS_UNTIL_PROMPT		30		// double
+#define Ask4AppReviews_DAYS_UNTIL_PROMPT		10		// double
 
 /*
  An example of a 'use' would be if the user launched the app. Bringing the app
